@@ -1,2 +1,2 @@
 # Power-Bi
-Power BI Learnings & Assignment
+Power BI Learnings & Assignments
